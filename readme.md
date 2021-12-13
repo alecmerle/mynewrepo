@@ -1,1 +1,2 @@
-<This repo is to test a git remote connection>
+# mynewrepo
+A repo created to learn connecting remotely
