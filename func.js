@@ -1,5 +1,5 @@
 function doubleNum(num){
-    return x * 3;
+    return x * 2;
 
 }
 
