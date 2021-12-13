@@ -1,1 +1,0 @@
-<This repo is to test a git remote connection>
